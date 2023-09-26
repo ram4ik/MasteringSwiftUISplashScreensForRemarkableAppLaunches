@@ -33,7 +33,7 @@ struct SplashScreenView: View {
                     .resizable()
                     .scaledToFill()
                     .frame(width: 100, height: 100)
-                    .foregroundColor(.green)
+                    .foregroundColor(.purple)
                     .opacity(imageOpacity)
             }
             .scaleEffect(scale)
